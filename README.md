@@ -1,6 +1,6 @@
 Welcome to my GitHub! My name is Boyce and I'm first-year EE student at UCI, and I'm hoping to gain a little experience in software development in order to broaden my technical skillset. Feel free to check out some of my projects! 
 
-Current projects:
+## Current projects:
 Blank Canvas - a minimalist Canvas extension focused on decluttering the main Canvas page through a custom dashboard and UI overhaul.
 
 <!--
